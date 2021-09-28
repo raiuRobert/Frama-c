@@ -1,4 +1,3 @@
 # Frama-c
 quick notes of what frama-c does
-https://wipro365.sharepoint.com/:f:/s/sd-waspsoftware/EseFx7zhcFRCrt7M8r7VItsBKCk_ZNTyqjJdnPuUVmuYQQ?e=s0cVIr&xsdata=MDN8MDF8fDY0MTQwNTliYzFmZDQzZGViN2E5NjI3NzY0M2MzMjc3fDI1OGFjNGU0MTQ2YTQxMWU5ZGM4NzlhOWUxMmZkNmRhfDF8MHw2Mzc2NzkyMzA0MTU1MTM2MTZ8R29vZHxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKV0lqb2lNQzR3TGpBd01EQWlMQ0pRSWpvaUlpd2lRVTRpT2lJaUxDSlhWQ0k2TVRKOQ%3D%3D&sdata=NVBDeEhuZ0toMzE1dlNiMVI4d3lJa1BuUWhhOVZyemFiZzVsQ3IzcVRPTT0%3D&ovuser=258ac4e4-146a-411e-9dc8-79a9e12fd6da%2CTW40018176%40wipro.com
 
